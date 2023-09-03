@@ -1,5 +1,5 @@
 {
-  "name": "@roses/utils",
+  "name": "@roseslove/utils",
   "version": "1.0.0",
   "main": "./dist/lib/index.js",
   "module": "./dist/es/index.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "author": "Roseses",
+  "author": "roseslove",
   "repository": {
     "type": "git",
     "url": "https://github.com/Roseses/roses-utils.git"
